@@ -1,0 +1,19 @@
+## INTRODUCTION
+
+HR analytics is the process of collecting and analyzing human resource data to enhance an organization's workforce performance. This process is also called talent analytics, people analytics, or workforce analytics.
+
+This data analysis method takes information that HR departments regularly collect and connects it to HR and organizational goals. This approach provides clear evidence of how HR programs contribute to the organization's achievement of its objectives and strategies.
+
+## Need for HR Analytics
+
+Most organizations already have data that is routinely collected, so why is there a need for specialized analytics? Can HR not simply look at the data they already have? Unfortunately, raw data on its own cannot provide useful insight. It would be like looking at a large spreadsheet full of numbers and words. Once organized, compared, and analyzed, this raw data becomes valuable and can help answer important questions.
+
+Employees are the heart of any company, and how well a company performs depends largely on its people. When employees leave, it creates several significant problems for the business:
+
+**Key Problems Caused by Employee Turnover:**
+- **High costs:** Training new hires requires substantial money and valuable time
+- **Loss of expertise:** The company loses experienced employees who understand the job well
+- **Reduced productivity:** Overall work output can drop significantly
+- **Financial impact:** Company profits may be negatively affected
+
+HR analytics helps organizations identify patterns in employee data to address these problems before they become costly issues.

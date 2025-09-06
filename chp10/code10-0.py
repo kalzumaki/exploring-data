@@ -1,7 +1,7 @@
 import os
 print("current directory: ",os.getcwd())
 
-with open('../data/sample_text.txt', 'r', encoding='utf-8') as f:
+with open('../data/attrition.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
 print('Original Text: ',text[:500])
